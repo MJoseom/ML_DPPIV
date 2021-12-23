@@ -1,5 +1,8 @@
 # ML_DPPIV
-DPP-IV Inhibitors Prediction based on Machine Learning Approaches:  A Potential Treatment for SARS-CoV-2
+
+**DPP-IV Inhibitors Prediction based on Machine Learning Approaches:  A Potential Treatment for SARS-CoV-2**
+
+**Final project for the Biostatistics and Bioinformatics Master from Universitat Oberta de Catalunya (UOC)**
 
 Scripts used to build Machine learning models from DPP-IV inhibitors with the aim to predict new hits. 
 
